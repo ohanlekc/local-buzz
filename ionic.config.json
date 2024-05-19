@@ -1,0 +1,7 @@
+{
+  "name": "local-buzz",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
